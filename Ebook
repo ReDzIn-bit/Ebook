@@ -1,0 +1,28 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu eBook - Monetizze</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .container { max-width: 600px; margin: auto; }
+        h1 { color: #333; }
+        .ebook-cover { width: 100%; max-width: 300px; }
+        .cta { background: #ff6600; color: white; padding: 15px; display: inline-block; text-decoration: none; font-size: 18px; margin-top: 20px; border-radius: 5px; }
+        .cta:hover { background: #cc5500; }
+        .testimonials { margin-top: 40px; font-style: italic; color: #555; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Descubra os Segredos do Sucesso</h1>
+        <img src="ebook-cover.jpg" alt="Capa do eBook" class="ebook-cover">
+        <p>Aprenda estratégias incríveis para alcançar seus objetivos. Baixe agora o nosso eBook exclusivo!</p>
+        <a href="https://www.monnetize.com/compra-segura" class="cta">Baixar Agora</a>
+        <div class="testimonials">
+            <p>"Este eBook mudou minha vida!" - Cliente Satisfeito</p>
+            <p>"Aprendi estratégias valiosas que aplico todos os dias." - Leitor Feliz</p>
+        </div>
+    </div>
+</body>
+</html>
